@@ -2,9 +2,9 @@
 
 #### Group Members
 
-*Tejas Khanted
-*Aniket Gaikwad
-*Kavan Naik
+* Tejas Khanted
+* Aniket Gaikwad
+* Kavan Naik
 
 
 #### Description
